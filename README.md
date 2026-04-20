@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen.svg" alt="Status Badge">
   <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-3776AB.svg?logo=python&logoColor=white" alt="Python Badge"></a>
-  <a href="https://github.com/maxinenicolebernales"><img src="https://img.shields.io/github/stars/maxinenicolebernales.svg?logo=github&color=yellow" alt="Stars Badge"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxinenicolebernales.maxinenicolebernales" alt="Visitors Badge"/>
+  <!-- <a href="https://github.com/maxinenicolebernales"><img src="https://img.shields.io/github/stars/maxinenicolebernales.svg?logo=github&color=yellow" alt="Stars Badge"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxinenicolebernales.maxinenicolebernales" alt="Visitors Badge"/> -->
 </div>
 
 <!-- Typing Animation -->
@@ -101,13 +101,32 @@ I don't just study data science — I've shipped it. As a **Data Science & Autom
 
 ## 📁 Projects Showcase
 
+### 🏢 Nueca Technologies — Production Projects
+> Built and deployed inside a real company during my internship (June–July 2025)
+
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **NLP: Media vs. Social Media on BBM** | Comparative NLP analysis of media outlets vs. social media posts on President Marcos post-2025 Midterm Elections | Python, NLP, Sentiment Analysis | 🔗 In Progress |
-| **Poverty Prediction (FIES 2015)** | Predictive model for Filipino family poverty classification using gov't income & expenditure data | Python, Scikit-learn, Pandas | [🔗 View Repo](https://github.com/maxinenicolebernales) |
-| **Financial Worry Profiling** | EDA & segmentation of financial worries using the Global Findex Dataset | Python, EDA, Power BI | [🔗 View Repo](https://github.com/maxinenicolebernales) |
-| **ML Attendance Validation System** | Supervised ML model deployed at Nueca Technologies to validate employee attendance logs for payroll | Python, Scikit-learn, CustomTkinter | 🔗 Private (Production) |
-| **Multilingual RAG Chatbot** | AI chatbot handling multilingual FAQs and live order tracking, deployed inside a real company | OpenAI API, Qdrant, n8n | 🔗 Private (Production) |
+| **ML Attendance Validation System** | Supervised ML model that validates employee attendance logs against company policies, with a desktop UI for HR staff | Python, Scikit-learn, CustomTkinter | 🔗 Private (Production) |
+| **Multilingual RAG Chatbot** | AI chatbot handling multilingual FAQs and live order tracking via external API integration, deployed inside the company | OpenAI API, Qdrant, n8n | 🔗 Private (Production) |
+
+---
+
+### 🇵🇭 Eskwelabs — Research Projects
+> Cohort-based, research-grade data projects on real Philippine datasets
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **NLP: Media vs. Social Media on BBM** *(Sprint 3)* | Comparative NLP analysis of media outlets vs. social media posts on President Marcos following the 2025 Midterm Elections | Python, NLP, Sentiment Analysis | 🔗 In Progress |
+| **Poverty Prediction via FIES 2015** *(Sprint 2)* | Predictive model classifying Filipino family poverty levels using government income & expenditure survey data | Python, Scikit-learn, Pandas | [🔗 View Repo](https://github.com/maxinenicolebernales) |
+| **Financial Worry Profiling** *(Sprint 1)* | EDA and segmentation of financial worries across demographics using the Global Findex Dataset | Python, EDA, Power BI | [🔗 View Repo](https://github.com/maxinenicolebernales) |
+
+---
+
+### 💡 Passion Projects
+> Personal and coursework projects built out of curiosity and learning
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
 | **Credit Fraud Detection** | Classification model handling severe class imbalance to detect fraudulent transactions | Python, Scikit-learn, XGBoost | [🔗 View Repo](https://github.com/maxinenicolebernales) |
 | **Insurance Prediction** | ML model predicting insurance charges using regression and feature engineering | Python, Scikit-learn, Pandas | [🔗 View Repo](https://github.com/maxinenicolebernales) |
 | **DoorDash Delivery Time Estimator** | Regression model estimating food delivery times based on order and location features | Python, Scikit-learn, EDA | [🔗 View Repo](https://github.com/maxinenicolebernales) |
@@ -148,13 +167,11 @@ I don't just study data science — I've shipped it. As a **Data Science & Autom
 
 ## 📞 Contact & Connect
 
-Let's connect and collaborate!
-
 <div align="center">
   <a href="https://linkedin.com/in/maxinenicolebernales">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/minmax2127">
+  <a href="https://github.com/maxinenicolebernales">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:maxinenicolebbernales@gmail.com">
