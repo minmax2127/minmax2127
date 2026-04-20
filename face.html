@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Face</title>
+<style>
+  body {
+    background-color: #f0f0f0; /* Light gray background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  .face-container {
+    width: 200px;
+    height: 200px;
+    background-color: #ffdaaa; /* Skin tone */
+    border-radius: 50%;
+    position: relative;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  .eye {
+    width: 30px;
+    height: 30px;
+    background-color: #333;
+    border-radius: 50%;
+    position: absolute;
+    top: 70px;
+  }
+  .left-eye {
+    left: 45px;
+  }
+  .right-eye {
+    right: 45px;
+  }
+  .mouth {
+    width: 80px;
+    height: 20px;
+    background-color: #d84315;
+    border-radius: 0 0 10px 10px;
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+</style>
+</head>
+<body>
+
+<div class="face-container">
+  <div class="eye left-eye"></div>
+  <div class="eye right-eye"></div>
+  <div class="mouth"></div>
+</div>
+
+</body>
+</html>
