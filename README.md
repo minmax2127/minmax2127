@@ -111,12 +111,12 @@ I don't just study data science — I've shipped it. As a **Data Science & Autom
 
 ---
 
-### 🇵🇭 Eskwelabs — Research Projects
+### 🇵🇭 Eskwelabs — Data Science Fellowship Program
 > Cohort-based, research-grade data projects on real Philippine datasets
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **NLP: Media vs. Social Media on BBM** *(Sprint 3)* | Comparative NLP analysis of media outlets vs. social media posts on President Marcos following the 2025 Midterm Elections | Python, NLP, Sentiment Analysis | 🔗 In Progress |
+| **NLP: Media vs. Social Media on BBM** *(Sprint 3)* | Comparative NLP analysis of media outlets vs. social media posts on President Marcos following the 2025 Midterm Elections | Python, NLP, Sentiment Analysis | [🔗 View Repo](https://github.com/minmax2127/nlp-multiperspective-analysis-on-bbm.git) |
 | **Poverty Prediction via FIES 2015** *(Sprint 2)* | Predictive model classifying Filipino family poverty levels using government income & expenditure survey data | Python, Scikit-learn, Pandas | [🔗 View Repo](https://github.com/maxinenicolebernales) |
 | **Financial Worry Profiling** *(Sprint 1)* | EDA and segmentation of financial worries across demographics using the Global Findex Dataset | Python, EDA, Power BI | [🔗 View Repo](https://github.com/maxinenicolebernales) |
 
@@ -127,6 +127,7 @@ I don't just study data science — I've shipped it. As a **Data Science & Autom
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| **AirBNB Reviews Analysis** | An exploration of customer sentiment and experience using Airbnb hotel reviews. This project aims to uncover what guests truly think—highlighting strengths, exposing weaknesses, and translating insights into actionable business recommendations.  | Python, Scikit-Learn | [🔗 View Repo](https://github.com/minmax2127/airbnb-reviews-sentiment-analysis.git) |
 | **Credit Fraud Detection** | Classification model handling severe class imbalance to detect fraudulent transactions | Python, Scikit-learn, XGBoost | [🔗 View Repo](https://github.com/maxinenicolebernales) |
 | **Insurance Prediction** | ML model predicting insurance charges using regression and feature engineering | Python, Scikit-learn, Pandas | [🔗 View Repo](https://github.com/maxinenicolebernales) |
 | **DoorDash Delivery Time Estimator** | Regression model estimating food delivery times based on order and location features | Python, Scikit-learn, EDA | [🔗 View Repo](https://github.com/maxinenicolebernales) |
@@ -150,18 +151,6 @@ I don't just study data science — I've shipped it. As a **Data Science & Autom
 | 2022 | 🎯 6th Place · Ateneo Programming Competition |
 | 2022–Present | 🎓 DOST-SEI JLSS Merit Scholar |
 | 2022–Present | ⭐ 4x President's Lister · 2x Dean's Lister · GPA 3.62 |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Maxine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxinenicolebernales&show_icons=true&theme=nord&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxinenicolebernales&layout=compact&theme=nord&hide_border=true)
-
-</div>
 
 ---
 
